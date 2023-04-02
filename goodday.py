@@ -8,4 +8,5 @@ import goodday
 import hello
 goodday.goodday()
 
-
+def sum():
+    print("Sum")
